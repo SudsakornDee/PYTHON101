@@ -1,0 +1,2 @@
+name = 'Sudsakorn'
+lastname = 'Deemarerng'
